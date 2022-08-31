@@ -25,5 +25,5 @@ while True:
         if usernum == '3':
             num = (int (input("enter number to factorise ")))
             print(fact(num))
-        if usernum == "---":
+        if usernum == "exit":
             break
